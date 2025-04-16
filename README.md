@@ -1,1 +1,0 @@
-# Tender-Management-system
